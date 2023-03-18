@@ -1,5 +1,5 @@
 # ICML2023
-This folder contains the details for the rebuttal for "Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout":
+This folder contains the details of the rebuttal for "Efficient Federated Learning with Heterogeneous Data and Adaptive Dropout":
 
 - The accuracy vs. rounds figure are shown in *** (for Reviewer sUQ1).
 - The table for computational costs on the server is shown in *** (for Reviewer sUQ1).
