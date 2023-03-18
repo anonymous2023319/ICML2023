@@ -12,3 +12,6 @@ FedDH   |   0.621  | 1426  |  0.652  |  0.744   | 3322  |   4.549 |   0.297  | 2
 FedAD   |   0.595  | 1394  |  0.615  |  0.732   | 3632  |   4.324 |   0.295  | 2175  |   0.604 |  0.412   | 5324  |   4.330 |								
 FedDST	|   0.582  | 2178  |  0.645  |  0.645   | NaN   |   4.504 |   0.168  |  NaN  |   0.652 |  0.181   | NaN   |   4.508 |
 PruneFL	|   0.392  | NaN   |  0.652  |  0.524   | NaN   |   4.549 |   0.127  |	NaN  |   0.659 |  0.187   | NaN   |   4.554 |
+
+FedDST： Sameer Bibikar, Haris Vikalo, Zhangyang Wang, Xiaohan Chen, Federated Dynamic Sparse Training: Computing Less, Communicating Less, Yet Learning Better, accepted to AAAI22, https://arxiv.org/abs/2112.09824
+PruneFL：Jiang, Yuang, et al. "Model pruning enables efficient federated learning on edge devices." IEEE Transactions on Neural Networks and Learning Systems (2022).
