@@ -1,0 +1,14 @@
+The accuracy and training time with FedDHAD, FedDH, FedAD, and diverse baseline methods on CIFAR-10 and CIFAR-100. 
+“Accuracy” represents the accuracy of the final global model. 
+“Time” represents the training time (s) to achieve the accuracy of 0.54 for LeNet/CIFAR-10, 0.72 for CNN/CIFAR-10, 0.26 for LeNet/CIFAR-100, and 0.41 for CNN/CIFAR-100. 
+“MFLOPs” represents the computation costs (“MFLOPs”). 
+“NaN” represents that the accuracy does not achieve the target accuracy. 
+FedDHAD, FedDH, and FedAD are our proposed methods
+        |                         Cifar10                         |                         Cifar100                        |
+        |            LeNet           |            CNN             |             LeNet          |             CNN            |
+        | Accuracy | Time  |   MLPs  | Accuracy | Time  |   MLPs  | Accuracy | Time  |   MLPs  | Accuracy | Time  |   MLPs  |
+FedDHAD |   0.633  | 1371  |  0.618  |	0.749   | 3074  |   4.324 |   0.300  | 2127  |   0.609 |  0.423   | 4952  |   4.416 |								
+FedDH   |   0.621  | 1426  |  0.652  |  0.744   | 3322  |   4.549 |   0.297  | 2495  |   0.659 |  0.420   | 5018  |   4.554 |								
+FedAD   |   0.595  | 1394  |  0.615  |  0.732   | 3632  |   4.324 |   0.295  | 2175  |   0.604 |  0.412   | 5324  |   4.330 |								
+FedDST	|   0.582  | 2178  |  0.645  |  0.645   | NaN   |   4.504 |   0.168  |  NaN  |   0.652 |  0.181   | NaN   |   4.508 |
+PruneFL	|   0.392  | NaN   |  0.652  |  0.524   | NaN   |   4.549 |   0.127  |	NaN  |   0.659 |  0.187   | NaN   |   4.554 |
