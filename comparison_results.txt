@@ -1,7 +1,7 @@
 The accuracy and training time with FedDHAD, FedDH, FedAD, and diverse baseline methods on CIFAR-10 and CIFAR-100. 
 “Accuracy” represents the accuracy of the final global model. 
 “Time” represents the training time (s) to achieve the accuracy of 0.54 for LeNet/CIFAR-10, 0.72 for CNN/CIFAR-10, 0.26 for LeNet/CIFAR-100, and 0.41 for CNN/CIFAR-100. 
-“MFLOPs” represents the computation costs (“MFLOPs”). 
+“MLPs” represents the computation costs (“MFLOPs”). 
 “NaN” represents that the accuracy does not achieve the target accuracy. 
 FedDHAD, FedDH, and FedAD are our proposed methods
         |                         Cifar10                         |                         Cifar100                        |
