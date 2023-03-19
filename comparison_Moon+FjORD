@@ -7,7 +7,7 @@ FedDHAD, FedDH, and FedAD are our proposed methods
             |                         Cifar10                         |
             |            LeNet           |            CNN             |
             | Accuracy | Time  |   MLPs  | Accuracy | Time  |   MLPs  |
-FedDHAD     |   0.633  | 1371  |  0.618  |	0.749   | 3074  |   4.324 |								
+FedDHAD     |   0.633  | 1371  |  0.618  |  0.749   | 3074  |   4.324 |								
 FedDH       |   0.621  | 1426  |  0.652  |  0.744   | 3322  |   4.549 |							
 FedAD       |   0.595  | 1394  |  0.615  |  0.732   | 3632  |   4.324 |								
 Moon+FjORD  |   0.608  | 2821  |  0.526  |  0.737   | 4609  |   3.959 |
