@@ -14,6 +14,9 @@ FedDST	|   0.582  | 2178  |  0.645  |  0.645   | NaN   |   4.504 |   0.168  |  N
 PruneFL	|   0.392  | NaN   |  0.652  |  0.524   | NaN   |   4.549 |   0.127  |	NaN  |   0.659 |  0.187   | NaN   |   4.554 |
 FedDUAP |   0.521  | NaN   |  0.411  |  0.661   | NaN   |   2.866 |   0.262  | 4090  |   0.415 |  0.357   | NaN   |   2.874 |
 
+FedNAS: He, Chaoyang, Murali Annavaram, and Salman Avestimehr. "Towards non-iid and invisible data with fednas: federated deep learning via neural architecture search." arXiv preprint arXiv:2004.08546 (2020).
 FedDST： Sameer Bibikar, Haris Vikalo, Zhangyang Wang, Xiaohan Chen, Federated Dynamic Sparse Training: Computing Less, Communicating Less, Yet Learning Better, accepted to AAAI22, https://arxiv.org/abs/2112.09824
 PruneFL：Jiang, Yuang, et al. "Model pruning enables efficient federated learning on edge devices." IEEE Transactions on Neural Networks and Learning Systems (2022).
 FedDUAP: Hong Zhang, Ji Liu, Juncheng Jia, Yang Zhou, Huaiyu Dai, Dejing Dou, FedDUAP: Federated Learning with Dynamic Update and Adaptive Pruning Using Shared Data on the Server, accepted to IJCAI22, https://arxiv.org/abs/2204.11536
+FedDP: Sixing Yu, Phuong Nguyen, Ali Anwar, Ali Jannesari, Heterogeneous Federated Learning using Dynamic Model Pruning and Adaptive Gradient, https://arxiv.org/abs/2106.06921
+FAB-top-k: Han, Pengchao, Shiqiang Wang, and Kin K. Leung. "Adaptive gradient sparsification for efficient federated learning: An online learning approach." 2020 IEEE 40th international conference on distributed computing systems (ICDCS). IEEE, 2020.
