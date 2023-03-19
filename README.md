@@ -6,4 +6,4 @@ This folder contains the details of the rebuttal for "Efficient Federated Learni
 - The comparison results between our approach and other baseline approaches are shown in [comparison_results](https://github.com/anonymous2023319/ICML2023/blob/main/comparison_results.txt) (for Reviewer sUQ1).
 - The comparison results between our appraoch and the combination of Moon and FjORD is shown in *** (for Reviewer m3qq).
 - The values of JS divergence for CIFAR10 and CIFAR100 are shown in [JS_divergence_values_CIFAR10](https://github.com/anonymous2023319/ICML2023/blob/main/JS_divergence_values_CIFAR10.txt) and [JS_divergence_values_CIFAR100](https://github.com/anonymous2023319/ICML2023/blob/main/JS_divergence_values_CIFAR100.txt), respectively (for Reviewer m3qq).
-- The control parameters for CIFAR10 and CIFAR100 are shown in [Control parameters](https://github.com/anonymous2023319/ICML2023/blob/main/control_parameters)
+- The control parameters for CIFAR10 and CIFAR100 are shown in [Control parameters](https://github.com/anonymous2023319/ICML2023/blob/main/control_parameters).
