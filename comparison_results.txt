@@ -21,6 +21,7 @@ FedDUAP: Hong Zhang, Ji Liu, Juncheng Jia, Yang Zhou, Huaiyu Dai, Dejing Dou, Fe
 FedDP: Sixing Yu, Phuong Nguyen, Ali Anwar, Ali Jannesari, Heterogeneous Federated Learning using Dynamic Model Pruning and Adaptive Gradient, https://arxiv.org/abs/2106.06921
 FAB-top-k: Han, Pengchao, Shiqiang Wang, and Kin K. Leung. "Adaptive gradient sparsification for efficient federated learning: An online learning approach." 2020 IEEE 40th international conference on distributed computing systems (ICDCS). IEEE, 2020.
 
+FedDHAD significantly outperforms the baseline methods: up to 24.2%, 24.1%, 11.2% in terms of accuracy and 37.1%, NaN, 48.0% in terms of Time to achieve target accuracy for FedDST, PruneFL, FedDUAP, respectively.
 FedNAS searches proper model architecture, which may corresponds to longer training time. 
 FAB-top-k exploits gradient sparsification, which may incur inferior accuracy. 
 Similar to FedDUAP, FedDP prunes the models, which may degrade the accuracy of the model. 
